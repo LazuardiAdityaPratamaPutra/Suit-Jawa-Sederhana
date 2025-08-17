@@ -33,7 +33,7 @@ while (suit) {
   }
 
   // Menampilkan Hasil
-  alert('Kamu memilih : ' + p + ' dan Komputer memilih ' + comp + ' hasilnya kamu ' + hasil);
+  alert('Kamu memilih ' + p + ' dan Komputer memilih ' + comp + ' ,hasilnya kamu ' + hasil);
 
   suit = confirm('Mau coba main lagi?');
 }
