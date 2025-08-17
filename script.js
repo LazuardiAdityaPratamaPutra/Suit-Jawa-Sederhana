@@ -28,6 +28,8 @@ while (suit) {
     hasil = ( comp == 'gajah' ) ? 'KALAH!' : 'MENANG!';
   }else if ( p == 'semut' ){
     hasil = ( comp == 'gajah' ) ? 'MENANG!' : 'KALAH!';
+  }else {
+    hasil = "Kamu memasukka pilihan yang salah";
   }
 
   // Menampilkan Hasil
