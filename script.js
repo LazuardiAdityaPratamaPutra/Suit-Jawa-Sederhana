@@ -19,7 +19,7 @@ while (suit) {
 
   // Menentukan Rules
   var hasil = "";
-git 
+
   if ( p == comp ) {
     hasil = 'SERI';
   }else if ( p == 'gajah'){
