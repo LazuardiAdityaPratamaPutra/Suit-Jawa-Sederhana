@@ -5,7 +5,7 @@ Game suit tradisional Jawa (Gajah 🐘, Orang 👤, Semut 🐜) sederhana menggu
 ## Cara Menjalankan
 1. Clone repo ini
 2. Buka file `suit-jawa.html` di browser
-3. Pilih salah satu: `Gajah`, `Orang`, atau `Semut`
+3. Pilih salah satu: `Gajah`, `Orang`, atau `Semut`.
 
 ## Aturan Main
 - Gajah vs Orang → Gajah menang
