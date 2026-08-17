@@ -1,4 +1,4 @@
-bv# Game Suit Jawa
+sbv# Game Suit Jawa
 
 Game suit tradisional Jawa (Gajah 🐘, Orang 👤, Semut 🐜) sederhana menggunakan JavaScript.
 
